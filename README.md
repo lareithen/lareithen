@@ -3,4 +3,5 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=lareithen)
 
+# Discord
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=750344057460490240)
