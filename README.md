@@ -4,4 +4,4 @@
 ![Visitors](https://komarev.com/ghpvc/?username=lareithen)
 
 # Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/708640163168780333)](https://discord.com/users/708640163168780333)
+[![Discord Presence](https://spotifylanyard.larei.repl.co/708640163168780333)](https://discord.com/users/708640163168780333)
