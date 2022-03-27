@@ -10,7 +10,6 @@
   ],
   "socialmedia": {
     "github": "https://github.com/lareithen",
-    "instagram": "https://instagram.com/lareithenn",
     "twitter": "https://twitter.com/lareithen"
   }
 }
